@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Yuval!
 
-<!--
-**yuvalnamirbarr/yuvalnamirbarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student, passionate about solving real-world problems through code. My projects span low-level C programming, algorithms, machine learning, and clean system design.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+### 🎮 [Tank Battle Simulator](https://github.com/yuvalnamirbarr/tank-battle)
+**C++ | OOP | Algorithms**  
+Simulates a strategic tank battle between two players, each using a different algorithm. Includes real-time shell tracking, decision logic with BFS, and structured simulation engine.
+
+### 📊 [KMeans++ and SymNMF Clustering](https://github.com/yuvalnamirbarr/kmeans-and-symnmf)
+**C + Python | Clustering Algorithms | CPython Integration**  
+Implements KMeans++ and spectral clustering via Symmetric NMF. Core numerical operations written in C, exposed to Python through custom extensions.
+
+---
+
+## 🧠 Skills & Technologies
+
+- **Languages:** Python, C++, C
+- **Topics:** Algorithms, OOP, Operating Systems, Machine Learning
+- **Tools:** Git & GitHub, Makefile, VSCode, Bash, CPython API
+
+---
+
+## 📫 Let's Connect
+
+- GitHub: [yuvalnamirbarr](https://github.com/yuvalnamirbarr)
+- LinkedIn: [Yuval Namir Barr](https://www.linkedin.com/in/yuvalnamirbarr)
+
+Feel free to explore the repositories linked above — I welcome feedback and collaboration!
