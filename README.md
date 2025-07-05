@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yuval!
 
-I'm a Computer Science student, passionate about solving real-world problems through code. My projects span low-level C programming, algorithms, machine learning, and clean system design.
+I'm a Computer Science student at TAU. My projects span low-level C programming, algorithms, machine learning, and clean system design.
 
 ---
 
