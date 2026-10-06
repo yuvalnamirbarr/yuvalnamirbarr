@@ -40,7 +40,7 @@ Passionate about building efficient, scalable software—specializing in systems
 * Pilot recommendation engine analyzing large-scale restaurant and user review datasets (Google Maps dataset).
 * Focuses on personalized query scoring, content-based filtering, and geospatial preference matching.
 
-### 🗄️ [Movies Analytics DBMS](https://github.com/yonatankadosh/FIANL-PROJECT-DBMS)
+### 🗄️ [Movies Analytics DBMS](https://github.com/yuvalnamirbarr/final_dbms_project)
 `MySQL` • `Database Systems` • `Python`  
 * Relational database system modeled for extensive querying, schema optimization, and analytical performance over movie datasets.
 
