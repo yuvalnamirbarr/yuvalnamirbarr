@@ -35,12 +35,12 @@ Passionate about building efficient, scalable software—specializing in systems
 * High-performance clustering implementation combining unsupervised KMeans++ and spectral clustering via Symmetric Non-Negative Matrix Factorization (SymNMF).
 * Critical mathematical and matrix operations implemented in low-level C for speed, seamlessly exposed as a native Python module via CPython C-API.
 
-### 🍽️ [VibeDine – Restaurant Recommender System](https://github.com/yuvalnamirbarr/VibeDine_Restaurants_RecSys)
+### 🍽️ [VibeDine – Restaurant Recommender System](https://github.com/EsterTkach/VibeDine_Restaurants_RecSys)
 `Python` • `Data Analysis` • `Recommendation Systems`  
 * Pilot recommendation engine analyzing large-scale restaurant and user review datasets (Google Maps dataset).
 * Focuses on personalized query scoring, content-based filtering, and geospatial preference matching.
 
-### 🗄️ [Movies Analytics DBMS](https://github.com/yuvalnamirbarr/FIANL-PROJECT-DBMS)
+### 🗄️ [Movies Analytics DBMS](https://github.com/yonatankadosh/FIANL-PROJECT-DBMS)
 `MySQL` • `Database Systems` • `Python`  
 * Relational database system modeled for extensive querying, schema optimization, and analytical performance over movie datasets.
 
